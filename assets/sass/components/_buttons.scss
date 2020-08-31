@@ -1,0 +1,16 @@
+.button {
+	padding: 0.5rem 1rem;
+	border: none;
+	cursor: pointer;
+	transition: all .4s ease;
+}
+
+.button-message{
+	background: $cian;
+	color: $white;
+	
+	&:hover{
+		background: $darkCian;
+		
+	}
+}

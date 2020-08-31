@@ -1,0 +1,13 @@
+.navbar a {
+  font-family: $roboto;
+  font-size: $large;
+  span {
+    display: inline-block;
+	font-size: $small;
+	vertical-align: top;
+  }
+}
+.navbar__collapse__icon {
+  font-size: $m-icons;
+  cursor: pointer;
+}
